@@ -1,0 +1,5 @@
+WHITE = (200, 200, 200)
+WINDOW_HEIGHT = 800
+WINDOW_WIDTH = 800
+BLACK = (0, 0, 0)
+blockSize = 10
